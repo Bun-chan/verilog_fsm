@@ -1,0 +1,61 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/MSEE/5361/Week4/Assignment3
+vAAC2M4P3_tb
+!s110 1670037553
+!i10b 1
+!s100 8P@k0_@0hfN;CF_dFa28J0
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IID139Q7Z@<4zVo1CT=L0Y3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+!i119 1
+R0
+w1669952450
+8D:/MSEE/5361/Week4/Assignment3/AAC2M4P3_tb.vp
+FD:/MSEE/5361/Week4/Assignment3/AAC2M4P3_tb.vp
+!i122 1
+L0 65 52
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1670037553.000000
+!s107 D:/MSEE/5361/Week4/Assignment3/AAC2M4P3_tb.vp|
+!s90 -reportprogress|300|-work|work|D:/MSEE/5361/Week4/Assignment3/AAC2M4P3_tb.vp|
+!i113 1
+o-work work
+Z4 tCvgOpt 0
+n@a@a@c2@m4@p3_tb
+vFSM
+!s110 1670037547
+!i10b 1
+!s100 =R;ZQX<jo2QKU;6EAh?mK3
+R1
+Ib7MPhSkZF<S_I]feJ<Q>=3
+R2
+R0
+w1670037528
+8D:/MSEE/5361/Week4/Assignment3/AAC2M4P3.v
+FD:/MSEE/5361/Week4/Assignment3/AAC2M4P3.v
+!i122 0
+L0 1 41
+R3
+r1
+!s85 0
+31
+!s108 1670037547.000000
+!s107 D:/MSEE/5361/Week4/Assignment3/AAC2M4P3.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/MSEE/5361/Week4/Assignment3|D:/MSEE/5361/Week4/Assignment3/AAC2M4P3.v|
+!i113 1
+o-vlog01compat -work work
+!s92 -vlog01compat -work work +incdir+D:/MSEE/5361/Week4/Assignment3
+R4
+n@f@s@m

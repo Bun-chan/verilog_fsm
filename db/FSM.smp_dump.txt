@@ -1,0 +1,6 @@
+
+State Machine - |FSM|current_state
+Name current_state.a current_state.c current_state.b 
+current_state.a 0 0 0 
+current_state.b 1 0 1 
+current_state.c 1 1 0 
